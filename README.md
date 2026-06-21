@@ -1,2 +1,14 @@
 # ak-star-lab
-HTML page archive and documentation
+
+静态页面归档仓库
+
+此仓库用于存放发布任务生成的静态页面，方便后续检查和维护。
+
+## 文件说明
+
+- `README.md`：仓库说明
+- `*.html`：发布后的独立页面
+
+## 查看方式
+
+可以通过仓库文件列表或 GitHub Pages 查看已发布页面。
